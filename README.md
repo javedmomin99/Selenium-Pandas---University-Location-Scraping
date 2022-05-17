@@ -1,1 +1,1 @@
-# Using Selenium & Pandas---University Location Scraping
+# Using Selenium & Pandas - University Location Scraping
